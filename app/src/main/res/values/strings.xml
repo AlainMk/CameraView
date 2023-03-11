@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraModule</string>
+    <string name="popup_title_permission_files_access">This app needs permissions to work.</string>
+</resources>
