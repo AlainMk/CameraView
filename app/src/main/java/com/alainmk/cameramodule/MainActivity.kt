@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
             .setExcludeVideos(false)
             .setVideoDurationLimitinSeconds(10)
             .setScreenOrientation(Options.SCREEN_ORIENTATION_PORTRAIT) //Orientaion
-            .setPath("/LezoApp")
+            .setPath("/CameraView")
 
         Camera.start(this, options)
     }
